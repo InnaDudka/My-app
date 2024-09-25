@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("This is shop-online app");
 
+        System.out.println("Shop-online for customers");
+
 
     }
 
